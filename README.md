@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 💬 Ask me about **JAVASCRIPT,JAVA,DSA*
+- 💬 Ask me about **JAVASCRIPT,JAVA,DSA,Development**
 
 - 📫 How to reach me **samarthlawania2002@gmail.com**
 
