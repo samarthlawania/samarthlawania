@@ -25,3 +25,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarthlawania&show_icons=true&locale=en&layout=compact" alt="samarthlawania_24" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samarthlawania&show_icons=true&locale=en" alt="samarthlawania_24" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samarthlawania&" alt="samarthlawania_24" /></p>
